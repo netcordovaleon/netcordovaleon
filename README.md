@@ -5,7 +5,11 @@
 - 💬 Ask me about: .NET, Java, JS and Backend technologies.
 - 📫 How to reach me: netcordovaleon@gmail.com
 
-My technical skills:
+## About me
+<a target="_blank" href="https://www.instagram.com/luis.cordovaleon">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a target="_blank" href="https://www.linkedin.com/in/luiscordovaleon/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+## My technical skills:
 
 ### BackEnd:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
