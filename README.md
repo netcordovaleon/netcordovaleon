@@ -3,7 +3,7 @@
 - 🔭 I’m currently working like Senior Software Developer
 - 🌱 I’m currently learning about Cloud Computing
 - 💬 Ask me about: .NET, Java, JS and Backend technologies.
-- 📫 How to reach me: netcordovaleon@gmail.com
+- 📫 Contact to me: netcordovaleon@gmail.com
 
 ## About me
 <a target="_blank" href="https://www.instagram.com/luis.cordovaleon">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
